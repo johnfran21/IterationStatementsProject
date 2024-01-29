@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationStatements", "IterationStatements\IterationStatements.csproj", "{8584889D-2DC5-4B2D-8DE7-277B8C4D0039}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationStatementsProject", "IterationStatements\IterationStatementsProject.csproj", "{8584889D-2DC5-4B2D-8DE7-277B8C4D0039}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
